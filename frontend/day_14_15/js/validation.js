@@ -1,7 +1,7 @@
 function login() {
     var username = document.getElementById("loginUsername").value;
     var password = document.getElementById("loginPassword").value;
-
+    //day15
     // You can perform login validation and authentication here
     // For simplicity, let's just display an alert
     console.log("Login clicked. Username: " + username + ", Password: " + password);
